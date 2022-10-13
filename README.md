@@ -76,8 +76,10 @@ ___
 ___
 
 
-### Address balance Ganache history
+### Address balance Ganache history transactions
 ![alltrans](all_transactions.png)
-
+___
+___
+![balance](balance.png)
 
 
